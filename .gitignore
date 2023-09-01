@@ -1,0 +1,25 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+# Playwright
+.env
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+
+# Test output
+test-results/
+
+# Miscellaneous
+.DS_Store
